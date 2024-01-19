@@ -15,7 +15,7 @@ export default function Home() {
 					Watchen, the NFT platform has been moved.
 				</h1>
 				<h2>
-					If you won't be redirect to the new link automatically in a few
+					If you won&apos;t be redirect to the new link automatically in a few
 					seconds, please{' '}
 					<Link href='https://alpha.watchen.xyz' className='underline'>
 						click here
