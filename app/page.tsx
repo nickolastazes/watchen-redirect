@@ -16,7 +16,7 @@ export default function Home() {
 				</h1>
 				<h2>
 					If you won't be redirect to the new link automatically in a few
-					seconds,{' '}
+					seconds, please{' '}
 					<Link href='https://alpha.watchen.xyz' className='underline'>
 						click here
 					</Link>
